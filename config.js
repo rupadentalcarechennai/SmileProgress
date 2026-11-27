@@ -1,0 +1,1 @@
+window.CARE_CHECKIN_BACKEND_URL = 'https://script.google.com/macros/s/AKfycbw3CJvkhFLc67AXjlgs9RF0UlxlArtgM0Jpe0yB5GRisygvaHxHWU14GDePkslkdNtT/exec';
